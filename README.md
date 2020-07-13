@@ -8,8 +8,8 @@ I'm an analysis technologist and developer of information systems | software eng
 - Technology teacher in middle school and basic school.
 
 ## More
-[Linkedin](https://www.linkedin.com/in/jeisson-camilo-romero-cendales-ab46591a9/)
-[Github](https://github.com/jromeroc)
+- [Linkedin](https://www.linkedin.com/in/jeisson-camilo-romero-cendales-ab46591a9/)
+- [Github](https://github.com/jromeroc)
 
 - 💬 Ask me about ...
 <!--
