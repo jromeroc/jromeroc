@@ -1,6 +1,6 @@
 I'm Camilo Romero Cendales.
 
-I'm analyst technologist and developer of information systems | software engineering student | Platzi master student.
+I'm analyst technologist and developer of information systems | software engineering student | Data Science at Platzi Master Program.
 
 ## My experience
 - Development backend php - python (Laravel - django)
