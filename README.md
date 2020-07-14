@@ -5,7 +5,7 @@ I'm an analysis technologist and developer of information systems | software eng
 ## My experience
 - Development backend php - python (Laravel - django)
 - IT manager.
-- Technology teacher in middle school and basic school.
+- Technology teacher at middle school and basic school.
 
 ## More
 - [Linkedin](https://www.linkedin.com/in/jeisson-camilo-romero-cendales-ab46591a9/)
